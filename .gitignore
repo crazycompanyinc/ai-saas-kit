@@ -2,24 +2,25 @@
 __pycache__/
 *.py[cod]
 *$py.class
-*.egg-info/
-dist/
-build/
-.eggs/
-
-# Virtual env
+*.so
 .venv/
 venv/
 env/
+*.egg-info/
+dist/
+build/
+
+# Node (old frontend - being phased out)
+node_modules/
+.next/
+out/
+.next-env.d.ts
+package-lock.json
 
 # Environment
 .env
 .env.local
-.env.production
-
-# Database
-*.db
-*.sqlite3
+.env.*.local
 
 # IDE
 .idea/
@@ -36,5 +37,13 @@ Thumbs.db
 htmlcov/
 .pytest_cache/
 
-# Docker volumes
-data/
+# Old frontend files (Next.js - will be replaced by React Pro dashboard)
+src/
+next.config.ts
+next-env.d.ts
+package.json
+package-lock.json
+postcss.config.mjs
+prisma/
+tailwind.config.ts
+tsconfig.json
