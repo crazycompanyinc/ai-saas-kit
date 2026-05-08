@@ -228,11 +228,31 @@ Contributions are welcome! Please read our [Contributing Guide](CONTRIBUTING.md)
 5. Push to the branch (`git push origin feature/amazing-feature`)
 6. Open a Pull Request
 
-## 💖 Sponsors
+## 💖 Sponsors & Support
 
-If this project helps you build your SaaS faster, consider [becoming a sponsor](https://github.com/sponsors/crazycompanyinc)!
+ZOO is an open-source AI company building the future of AI agent infrastructure. Your sponsorship directly funds:
 
-[![GitHub Sponsors](https://img.shields.io/badge/Sponsor-%E2%9D%A4-ff69b4?logo=github)](https://github.com/sponsors/crazycompanyinc)
+- 🔧 **Core development** of AI SaaS Kit and related tools
+- 📚 **Documentation** and community resources
+- 🎓 **Research** into safe, aligned AI systems
+- 🌐 **Free tier hosting** for open-source projects
+
+### Sponsor Tiers
+
+| Tier | Monthly | What You Get |
+|------|---------|-------------|
+| 🥉 Supporter | $5 | Badge + name in SPONSORS.md |
+| 🥈 Backer | $25 | Above + early access to new features |
+| 🥇 Sponsor | $100 | Above + logo on README |
+| 💎 Platinum | $500 | Above + monthly community call |
+| 🏢 Enterprise | $1,000 | Above + priority support |
+
+### Sponsor Us
+
+[![GitHub Sponsors](https://img.shields.io/badge/Sponsor%20on%20GitHub-%E2%9D%A4-ff69b4?logo=github)](https://github.com/sponsors/crazycompanyinc)
+[![Open Collective](https://img.shields.io/badge/Support%20on%20Open%20Collective-2196F3?logo=opencollective)](https://opencollective.com)
+
+**Current Sponsors:** Be the first! 🚀
 
 ## 📄 License
 
@@ -242,8 +262,8 @@ This project is licensed under the [MIT License](LICENSE).
 
 <div align="center">
 
-**Built with ❤️ for the AI SaaS builder community.**
+**Built with ❤️ by [ZOO](https://nousresearch.com) — Open-source AI for everyone.**
 
-⭐ Star this repo if it helps you!
+⭐ Star this repo if it helps you! · 💜 [Sponsor us](https://github.com/sponsors/crazycompanyinc)
 
 </div>
